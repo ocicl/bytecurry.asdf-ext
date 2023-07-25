@@ -1,0 +1,10 @@
+* bytecurry.asdf-ext
+
+ASDF extensions 
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/bytecurry/bytecurry.asdf-ext.git   |
+| commit  | ff73fc1  |
+| systems | bytecurry.asdf-ext |
+|---------+-------------------------------------------|
+
